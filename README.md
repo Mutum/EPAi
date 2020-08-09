@@ -6,52 +6,52 @@ In this class, We can assign it only 3 possible real states. True, False, and Ma
 
 The class has the functions below:
 
-__and__
+## __and__
 Calculates or consider our normal AND operator
 
 
-__or__
+## __or__
 
 Calculates or consider our normal OR operator
 
-__repr__
+## __repr__
 
 Representation of the class
 
-__str__
+## __str__
 
 Representation of the class when given string output
 
-__add__
+## __add__
 
 Calculates or consider our normal + (plus) operator
-__eq__
+## __eq__
 
 Calculates or consider our normal == (equal) operator
 
-__ge__
+## __ge__
 
 
 Calculates or consider our normal "greater than or equal to" operator
-__gt__
+## __gt__
 
 
 Calculates or consider our normal "greater than" operator
 
-__invertsign__
+## __invertsign__
 
 Change sign of the class value to this opposite sign
-__le__
+## __le__
 
 Calculates or consider our normal "less than or equal to" operator
-__lt__
+## __lt__
 
 Calculates or consider our normal "less than" operator
 
-__mul__
+## __mul__
 
 Calculates or consider our normal "multiplication" operator
 
-__sqrt__
+## __sqrt__
 
 Calculates square root of the class value
